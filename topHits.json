@@ -1,7 +1,7 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "udkqRqmBISROhqwti_43H9bSDUA",
-  "nextPageToken": "EAAaBlBUOkNBVQ",
+  "etag": "vB9u2nTgNIpZVZxLQqmZRA-NNW4",
+  "nextPageToken": "EAAaBlBUOkNESQ",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -222,10 +222,2110 @@
         "videoOwnerChannelTitle": "KatyPerryVEVO",
         "videoOwnerChannelId": "UC-8Q-hLdECwQmaWNwXitYDw"
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AxkUDzsVWz64BGNZGXIVAxhcQh0",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "OneRepublic - Counting Stars (Official Music Video)",
+        "description": "Stream & Download OneRepublic’s latest album “Human”: https://OneRepublic.lnk.to/Human\n\nListen to OneRepublic:\nSpotify: http://smarturl.it/1RSpotify \nApple Music: https://apple.co/3B4u43p \n\nShop OneRepublic: http://smarturl.it/1RShop\nSign up for email updates: http://smarturl.it/1REmail\nListen to OneRepublic on Spotify: http://smarturl.it/1RSpotify\nCatch OneRepublic on tour: https://www.onerepublic.com/tour\n\nFollow OneRepublic:\nFacebook: https://www.facebook.com/OneRepublic\nTwitter: https://twitter.com/OneRepublic\nInstagram: https://www.instagram.com/onerepublic\n\n#OneRepublic #CountingStars\n\nMusic video by OneRepublic performing Counting Stars. (C) 2013 Mosley Music/Interscope Records",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hT_nvWreIhg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hT_nvWreIhg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hT_nvWreIhg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hT_nvWreIhg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hT_nvWreIhg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hT_nvWreIhg"
+        },
+        "videoOwnerChannelTitle": "OneRepublicVEVO",
+        "videoOwnerChannelId": "UCQ5kHOKpF3-1_UCKaqXARRg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wzhA2M8SNNLFG__GlC1icJB4aLQ",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Justin Bieber - Sorry (PURPOSE : The Movement)",
+        "description": "‘Purpose’ Available Everywhere Now!\niTunes: http://smarturl.it/PurposeDlx?IQid=VEVO1113 \nStream & Add To Your Spotify Playlist: http://smarturl.it/sPurpose?IQid=VEVO1113 \nGoogle Play: http://smarturl.it/gPurpose?IQid=VEVO1113 \nAmazon: http://smarturl.it/aPurpose?IQid=VEVO1113 \n\nProduced by: BLOOD and Skrillex\n\nDirector: Parris Goebel\nProducer: Justin Bieber, Scott \"Scooter\" Braun and Parris Goebel\nAnimator: John Hwang \nProduction Company: SB Films and Taktix Films\nChoreographer: Parris Goebel\nDancers: The Ladies of ReQuest & The Royal Family Dance Crews from The Palace Dance Studio, NZ\n\n\nFollow Justin:\nhttp://facebook.com/justinbieber\nhttp://twitter.com/justinbieber\nhttp://instagram.com/justinbieber\nhttp://shots.com/justinbieber \nhttp://fahlo.me/justinbieber\nAnd sign up to Justin’s newsletter: http://justinbiebermusic.com\nSnapchat: rickthesizzler\n \nLyrics: Sorry – Justin Bieber\n \nYou gotta go and get \nAngry at all of my honesty\nYou know I try but I don't do too well with apologies \nI hope I don't run out of Time could someone call the referee\nCause I just need one more shot at forgiveness \n \nI know you know that I \nmade those mistakes maybe once or twice \nAnd by once or twice I Mean \nMaybe a couple a hundred times \nSo let me oh let me \nRedeem oh redeem oh my self tonight \nCause I just need one more shot at second chances \n \nYeah\nIs it too late now to say sorry \nCause I’m missing more than just your body \nIs it too late now to say sorry \nYeah I know that I let you down \nIs it too late to say I'm sorry now \nI’m sorry yeah\nSorry yeah\nSorry\nYeah I know that I let you down\nIs it too late to say I’m sorry now\n \nI'll take every single piece of the blame \nIf you want me too \nBut you know that there is no innocent one in this game for two\nI'll go I'll go and then \nYou go you go out and spill the truth \nCan we both say the words and forget this \n \nYeah\nIs it too late now to say sorry \nCause I’m missing more than just your body \nIs it too late now to say sorry \nYeah I know that I let you down \nIs it too late to say I'm sorry now \n \nI'm not just trying to get you back on me\nCause I’m missing more than just your body \nIs it too late now to say sorry \nYeah I know that I let you down \nIs it too late to say I'm sorry now \n \nI’m sorry (yeah)\nSorry (oh)\nSorry\nYeah I know that I let you down \nIs it too late to say I'm sorry now \n \nI’m sorry (yeah)\nSorry (oh)\nSorry\nYeah I know that I let you down \nIs it too late to say I'm sorry now  \n\nhttp://vevo.ly/Uf3y0K\n\n©: 2015 Def Jam Recordings, a division of UMG Recordings, Inc.\n\n#JustinBieber #Sorry #Vevo #Pop #Purpose",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fRh_vgS2dFE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fRh_vgS2dFE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fRh_vgS2dFE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fRh_vgS2dFE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fRh_vgS2dFE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fRh_vgS2dFE"
+        },
+        "videoOwnerChannelTitle": "JustinBieberVEVO",
+        "videoOwnerChannelId": "UCHkj014U2CQ2Nv0UZeYpE_A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LAAquvNzO3KImX6Aywhpj2Ieu2g",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Ed Sheeran - Thinking Out Loud (Official Music Video)",
+        "description": "The official music video for Ed Sheeran - Thinking Out Loud\nThe new album \"=\" is out now - listen here: https://es.lnk.to/equals\n \nEd learnt to dance! Featuring and taught by @dance10Brittany and @dance10Paul\n\nGo behind the scenes of the video: http://bit.ly/ThinkingOutLoudBTS\n\nTaken from the studio album X (multiply) released in 2014, which featured the hit singles 'Sing', 'Don't', 'Thinking Out Loud', 'Bloodstream', & 'Photograph'. \n \nSubscribe to the Ed Sheeran channel for all the best and latest official music videos, behind the scenes and live performances.  \nhttp://bit.ly/SubscribeToEdSheeran \n \nSee more official videos from Ed Sheeran here: \nhttps://www.youtube.com/watch?v=ryJgDL9jzKk&list=PLjp0AEEJ0-fGKG_3skl0e1FQlJfnx-TJz \n\nListen to more from the album x (multiply): \nhttps://www.youtube.com/playlist?list=PLjp0AEEJ0-fEuKWBJV30ebHCGoi1Ny69U\n \nFollow Ed Sheeran on: \nInstagram: http://instagram.com/teddysphotos\nTikTok: https://www.tiktok.com/@edsheeran\nFacebook: http://www.facebook.com/EdSheeranMusic\nTwitter: http://twitter.com/edsheeran\nDiscord: http://discord.gg/edsheeran\nOfficial Website: http://edsheeran.com \n  \nAbout Ed Sheeran: \nEd Sheeran may be the quintessential pop star of the 2010s: an internationally acclaimed, multi-award winning singer/songwriter who seems to acknowledge no boundaries between styles or eras with elements of folk, hip-hop, pop, dance, soul, and rock woven throughout his music. \n\nHis incredible catalogue includes the studio albums ‘+’ (plus), ‘x’ (multiply) and ‘÷’ (divide) which spawned hit singles such as ‘The A team’ , ’Lego House’, ‘Sing', ‘Thinking Out Loud’, ‘Photograph’, ‘Shape Of You’, ‘Castle on The Hill’ and ‘Perfect’. \n \nIn 2019, Ed Sheeran released the genre-spanning ‘No.6 Collaborations Project’ which featured a wide-range of artists including ‘Justin Bieber’, ‘Camilla’ Cabello’, ‘Travis Scott’, ‘Eminem’, ‘Cardi B, ‘Paulo Londra’, ‘Bruno Mars’ and ‘Stormzy’ amongst many others, producing hits such as ‘I Don’t Care’, ‘Beautiful People’, ‘South of The Border’ and ‘Take Me Back To London’. \n \n#EdSheeran #ThinkingOutLoud #multiply",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lp-EO5I60KA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lp-EO5I60KA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lp-EO5I60KA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lp-EO5I60KA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lp-EO5I60KA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lp-EO5I60KA"
+        },
+        "videoOwnerChannelTitle": "Ed Sheeran",
+        "videoOwnerChannelId": "UC0C-w0YjGpqDXGB8IHb662A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fWaf-X3EHzjZhvCsCw6kuhYtSMM",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Katy Perry - Dark Horse (Official) ft. Juicy J",
+        "description": "Listen to Katy’s new song “Smile”: https://katy.to/smileID\n\nGet \"Dark Horse\" from Katy Perry's 'PRISM': http://katy.to/PRISM\n\nKaty Perry Complete Collection on Spotify: http://katy.to/SpotifyCompleteYD\nKaty Perry Essentials on Apple Music: http://katy.to/AMEssentialsYD\nWatch your favorite Katy videos on YouTube: http://katy.to/MusicVideosYD\n\nFollow Katy Perry:\nWebsite: http://katy.to/WebsiteYD\nInstagram: http://katy.to/InstagramYD\nTwitter: http://katy.to/TwitterYD\nFacebook: http://katy.to/FacebookYD\n\n\nDirected by Matthew Cullen & Produced by Dawn Rose, Danny Lockwood, Javier Jimenez, and Derek Johnson\n\n\nLyrics:\nI knew you were\nYou were gonna come to me\nAnd here you are\nBut you better choose carefully\n‘Cause I am capable of anything\nOf anything and everything\nMake me your Aphrodite\nMake me your one and only\nBut don’t make me your enemy\nYour enemy, your enemy\n\n(Pre-Chorus)\nSo you wanna play with magic\nBoy, you should know what you’re fallin’ for\nBaby, do you dare to do this\n‘Cause I’m coming atcha like a dark horse\n\n(Chorus)\nAre you ready for, ready for\nA perfect storm, perfect storm\n‘Cause once you’re mine, once you’re mine\nThere’s no going back\n\nMark my words\nThis love will make you levitate\nLike a bird\nLike a bird without a cage\nBut down to earth\nIf you choose to walk away\nDon’t walk away\nIt’s in the palm of your hand now, baby\nIt’s a yes or a no, no maybe\nSo just be sure\nBefore you give it all to me\nAll to me\nGive it all to me\n\n(Pre-Chorus)\nSo you wanna play with magic\nBoy, you should know what you’re fallin’ for\nBaby, do you dare to do this\n‘Cause I’m coming atcha like a dark horse\n\n(Chorus)\nAre you ready for, ready for\nA perfect storm, perfect storm\n‘Cause once you’re mine, once you’re mine\nThere’s no going back\n\n(Juicy J)\nShe’s a beast\nI call her Karma\nShe’ll eat your heart out\nLike Jeffrey Dahmer\n\nBe careful\nTry not to lead her on\nShorty heart is on steroids\n‘Cause her love is so strong\n\nYou may fall in love when you meet her\nIf you get the chance, you better keep her\nShe’s sweet as pie, but if you break her heart\nShe’ll turn cold as a freezer\n\nThat fairy tale ending with a knight in shining armor\nShe can be my Sleeping Beauty\nI’m gon’ put her in a coma\n\nNow I think I love her\nShorty so bad, sprung and I don’t care\nShe ride me like a roller coaster\nTurned the bedroom into a fair\n\nHer love is like a drug\nI was tryna hit it and quit it\nBut lil’ mama so dope\nI messed around and got addicted\n\n(Pre-Chorus)\nSo you wanna play with magic\nBoy, you should know what you’re fallin’ for\nBaby, do you dare to do this\n‘Cause I’m coming atcha like a dark horse\n\n(Chorus)\nAre you ready for, ready for\nA perfect storm, perfect storm\n‘Cause once you’re mine, once you’re mine\nThere’s no going back\n\n\nMusic video by Katy Perry performing Dark Horse. (C) 2014 Capitol Records, LLC",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0KSOMA3QBU0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0KSOMA3QBU0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0KSOMA3QBU0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0KSOMA3QBU0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0KSOMA3QBU0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0KSOMA3QBU0"
+        },
+        "videoOwnerChannelTitle": "KatyPerryVEVO",
+        "videoOwnerChannelId": "UC-8Q-hLdECwQmaWNwXitYDw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kqeTDNnFaV7CanJow2PHUcZdeDw",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi5EQkE3RTJCQTJEQkFBQTcz",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Maroon 5 - Girls Like You ft. Cardi B (Official Music Video)",
+        "description": "\"Girls Like You” is out now.\nhttp://smarturl.it/GLY \n\nFor more, visit: \nhttps://www.facebook.com/maroon5 \nhttps://twitter.com/maroon5 \nhttps://www.instagram.com/maroon5 \n\nSign up for updates: http://smarturl.it/Maroon5.News\n\nMusic video by Maroon 5 performing Girls Like You. © 2018 Interscope Records\n\nhttp://vevo.ly/51VylS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aJOTlE1K90k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aJOTlE1K90k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aJOTlE1K90k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aJOTlE1K90k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aJOTlE1K90k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aJOTlE1K90k"
+        },
+        "videoOwnerChannelTitle": "Maroon5VEVO",
+        "videoOwnerChannelId": "UCN1hnUccO4FD5WfM7ithXaw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FQT8Vq1JwbpUw03VLJncHihzR_o",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi5EM0QyMDFGNzQ4ODk3MjhB",
+      "snippet": {
+        "publishedAt": "2022-07-23T20:34:13Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Mr. Gun - Sky Of The Morning",
+        "description": "Mr. Gun - Sky Of The Morning",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9HAtBsF3beo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9HAtBsF3beo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9HAtBsF3beo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9HAtBsF3beo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9HAtBsF3beo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9HAtBsF3beo"
+        },
+        "videoOwnerChannelTitle": "Redlist Country",
+        "videoOwnerChannelId": "UCckAdQqthUeb4ZhRgWSNQQA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7-RT7jiO1t8X6YTSRiYLIwqGy5s",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi44OEI3NUQ0QTlFM0FCOUU4",
+      "snippet": {
+        "publishedAt": "2020-04-01T11:53:56Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Passenger | Let Her Go (Official Video)",
+        "description": "The new album 'Songs For The Drunk And Broken Hearted' is out now and available from https://www.passengermusic.com \n\n'Let Her Go' from the album 'All the Little Lights' – https://Passenger.lnk.to/AllTheLittleLightsID\n\n***\n\nThe official video for 'Let Her Go' – Directed and Produced by Dave Jansen. www.funmonkey.com.au\n\n\"Let Her Go\" [Lyrics]\n\nWell you only need the light when it's burning low\nOnly miss the sun when it starts to snow\nOnly know you love her when you let her go\n\nOnly know you've been high when you're feeling low\nOnly hate the road when you're missin' home\nOnly know you love her when you let her go\nAnd you let her go\n\nStaring at the bottom of your glass\nHoping one day you'll make a dream last\nBut dreams come slow and they go so fast\n\nYou see her when you close your eyes\nMaybe one day you'll understand why\nEverything you touch surely dies\n\nBut you only need the light when it's burning low\nOnly miss the sun when it starts to snow\nOnly know you love her when you let her go\n\nOnly know you've been high when you're feeling low\nOnly hate the road when you're missin' home\nOnly know you love her when you let her go\n\nStaring at the ceiling in the dark\nSame old empty feeling in your heart\n'Cause love comes slow and it goes so fast\n\nWell you see her when you fall asleep\nBut never to touch and never to keep\n'Cause you loved her too much\nAnd you dived too deep\n\nWell you only need the light when it's burning low\nOnly miss the sun when it starts to snow\nOnly know you love her when you let her go\n\nOnly know you've been high when you're feeling low\nOnly hate the road when you're missin' home\nOnly know you love her when you let her go\n\nAnd you let her go\nAnd you let her go\nWell you let her go\n\n'Cause you only need the light when it's burning low\nOnly miss the sun when it starts to snow\nOnly know you love her when you let her go\n\nOnly know you've been high when you're feeling low\nOnly hate the road when you're missin' home\nOnly know you love her when you let her go\n\n'Cause you only need the light when it's burning low\nOnly miss the sun when it starts to snow\nOnly know you love her when you let her go\n\nOnly know you've been high when you're feeling low\nOnly hate the road when you're missin' home\nOnly know you love her when you let her go\n\nAnd you let her go\n\nFollow Passenger\nOnline: https://passengermusic.com\nFacebook: https://Passenger.lnk.to/FacebookID\nTwitter: https://Passenger.lnk.to/TwitterID\nInstagram: https://Passenger.lnk.to/InstaID\nSpotify: https://Passenger.lnk.to/SpotifyID\nApple Music: https://Passenger.lnk.to/AppleMusicID\nYouTube: https://Passenger.lnk.to/YouTubeID",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RBumgq5yVrA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RBumgq5yVrA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RBumgq5yVrA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RBumgq5yVrA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RBumgq5yVrA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RBumgq5yVrA"
+        },
+        "videoOwnerChannelTitle": "Passenger",
+        "videoOwnerChannelId": "UCFHtCB_FWXQ8GpjgfYcD8-g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gBN7jEwElcCu-KDtXyIqNWj-g-Q",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi5DQzY2RDZFRUQyRDlDQkMw",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Ed Sheeran - Perfect (Official Music Video)",
+        "description": "The official music video for Ed Sheeran - Perfect \nThe new album \"=\" is out now - listen here: https://es.lnk.to/equals\n \nTaken from the studio album ÷ (divide) released in 2017, which featured the hit singles 'Castle on the Hill', 'Shape of You', 'Galway Girl', ‘Perfect’ & 'Happier'. \n \nSubscribe to the Ed Sheeran channel for all the best and latest official music videos, behind the scenes and live performances.  \nhttp://bit.ly/SubscribeToEdSheeran \n \nSee more official videos from Ed Sheeran here: \nhttps://www.youtube.com/watch?v=ryJgDL9jzKk&list=PLjp0AEEJ0-fGKG_3skl0e1FQlJfnx-TJz \n\nListen to more from the album ÷ (divide): https://www.youtube.com/playlist?list=PLjp0AEEJ0-fGi7bkjrGhBLUF9NMraL9cL \n \nFollow Ed Sheeran on: \nInstagram: http://instagram.com/teddysphotos\nTikTok: https://www.tiktok.com/@edsheeran\nFacebook: http://www.facebook.com/EdSheeranMusic\nTwitter: http://twitter.com/edsheeran\nDiscord: http://discord.gg/edsheeran\nOfficial Website: http://edsheeran.com \n  \nVIDEO CREDITS: \n \nDirector | dp Jason Koenig  \nProducer: Honna Kimmerer  \nStarring: Ed Sheeran & Zoey Deutch  \nDirector of Photography: Johnny Valencia  \nProduction Company: Anonymous Content  \nExec Producer: Nina Soriano  \nProduction Manager: Doug Hoff  \nCommissioner: Dan Curwin  \nProduction Designer: John Lavin  \nLead Casting: Amy Hubbard  \nWritten by: Jason Koenig, Ed Sheeran, Jenny Koenig, Andrew Kolvet, Murray Cummings  \nEdited by: Jason Koenig & Johnny Valencia  \nVFX: Ian Hubert  \nGraphic design by Chris Ballasciotes  \nCast: Bo Valencia, Dennis Ranalta, Arthur Pauli  \nSki Cinematography: Corey Koniniec  \nSpecialty Camera op: Ryan Haug  \n1st AC: Ryan Brown  \n1st Assistant Director: Ole Zapatka  \nArt Director: Klaus Hartl  \nSnow fx: Lucien Stephenson  \nGaffer: Thomas Berz  \nStylist: Claudia Lajda  \nHair & Makeup: Christel Thoresen  \nAustrian Casting: Ursula Kiplinger  \nAdditional VFX: Zoic   \n\nSpecial Thanks to: The Hintertux Glacier, Austria; Hohenhaus Tenne, and Hotel Neuhintertux \n \nAbout Ed Sheeran: \nEd Sheeran may be the quintessential pop star of the 2010s: an internationally acclaimed, multi-award winning singer/songwriter who seems to acknowledge no boundaries between styles or eras with elements of folk, hip-hop, pop, dance, soul, and rock woven throughout his music. \n\nHis incredible catalogue includes the studio albums ‘+’ (plus), ‘x’ (multiply) and ‘÷’ (divide) which spawned hit singles such as ‘The A team’ , ’Lego House’, ‘Sing', ‘Thinking Out Loud’, ‘Photograph’, ‘Shape Of You’, ‘Castle on The Hill’ and ‘Perfect’. \n \nIn 2019, Ed Sheeran released the genre-spanning ‘No.6 Collaborations Project’ which featured a wide-range of artists including ‘Justin Bieber’, ‘Camilla’ Cabello’, ‘Travis Scott’, ‘Eminem’, ‘Cardi B, ‘Paulo Londra’, ‘Bruno Mars’ and ‘Stormzy’ amongst many others, producing hits such as ‘I Don’t Care’, ‘Beautiful People’, ‘South of The Border’ and ‘Take Me Back To London’. \n \n#EdSheeran #Perfect #divide",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2Vv-BfVoq4g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2Vv-BfVoq4g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2Vv-BfVoq4g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2Vv-BfVoq4g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2Vv-BfVoq4g"
+        },
+        "videoOwnerChannelTitle": "Ed Sheeran",
+        "videoOwnerChannelId": "UC0C-w0YjGpqDXGB8IHb662A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qk2WiI1qKJGhoyuK5Vc97I-sU-o",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi41NUMwNTVERDNBRDc4REM0",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Taylor Swift - Shake It Off",
+        "description": "►Exclusive Merch: https://store.taylorswift.com\n \n►Follow Taylor Swift Online\nInstagram: http://www.instagram.com/taylorswift\nFacebook: http://www.facebook.com/taylorswift\nTumblr: http://taylorswift.tumblr.com\nTwitter: http://www.twitter.com/taylorswift13\nWebsite: http://www.taylorswift.com\n \n►Follow Taylor Nation Online\nInstagram: http://www.instagram.com/taylornation\nTumblr: http://taylornation.tumblr.com\nTwitter: http://www.twitter.com/taylornation13",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nfWlot6h_JM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nfWlot6h_JM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nfWlot6h_JM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nfWlot6h_JM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nfWlot6h_JM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nfWlot6h_JM"
+        },
+        "videoOwnerChannelTitle": "TaylorSwiftVEVO",
+        "videoOwnerChannelId": "UCANLZYMidaCbLQFWXBC95Jg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9_dFtu6ICa_tGCsm6iI-agPSsIU",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi43QzNCNkZENzIyMDY2MjZB",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Adele - Hello",
+        "description": "Listen to \"Easy On Me\" here: http://Adele.lnk.to/EOM\nPre-order Adele's new album \"30\" before its release on November 19:  https://www.adele.com\nShop the \"Adele\" collection here: http://shop.adele.com\n\n‘Hello' is taken from the new album, 25, out November 20. http://adele.com\nAvailable now from iTunes http://smarturl.it/itunes25 \nAvailable now from Amazon http://smarturl.it/25amazon \nAvailable now from Google Play http://smarturl.it/25gplay\nAvailable now at Target (US Only): http://smarturl.it/target25\n\nDirected by Xavier Dolan, @XDolan\n\nFollow Adele on:\n\nFacebook - https://www.facebook.com/Adele\nTwitter - https://twitter.com/Adele \nInstagram - http://instagram.com/Adele\n\nhttp://vevo.ly/jzAuJ1\n\nCommissioner: Phil Lee\nProduction Company: Believe Media/Sons of Manual/Metafilms\nDirector: Xavier Dolan\nExecutive Producer: Jannie McInnes\nProducer: Nancy Grant/Xavier Dolan\nCinematographer:  André Turpin\nProduction design : Colombe Raby\nEditor: Xavier Dolan\nAdele's lover : Tristan Wilds",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YQHsXMglC9A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YQHsXMglC9A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YQHsXMglC9A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YQHsXMglC9A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YQHsXMglC9A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YQHsXMglC9A"
+        },
+        "videoOwnerChannelTitle": "AdeleVEVO",
+        "videoOwnerChannelId": "UComP_epzeKzvBX156r6pm1Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "46ll5DYY2KPe8U8jN5HKhnjovDg",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Taylor Swift - Blank Space",
+        "description": "►Exclusive Merch: https://store.taylorswift.com\n \n►Follow Taylor Swift Online\nInstagram: http://www.instagram.com/taylorswift\nFacebook: http://www.facebook.com/taylorswift\nTumblr: http://taylorswift.tumblr.com\nTwitter: http://www.twitter.com/taylorswift13\nWebsite: http://www.taylorswift.com\n \n►Follow Taylor Nation Online\nInstagram: http://www.instagram.com/taylornation\nTumblr: http://taylornation.tumblr.com\nTwitter: http://www.twitter.com/taylornation13",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e-ORhEE9VVg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e-ORhEE9VVg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e-ORhEE9VVg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e-ORhEE9VVg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e-ORhEE9VVg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e-ORhEE9VVg"
+        },
+        "videoOwnerChannelTitle": "TaylorSwiftVEVO",
+        "videoOwnerChannelId": "UCANLZYMidaCbLQFWXBC95Jg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Sm2jXM1Xy3nDpv4_Z2abr_gtMZM",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Charlie Puth - We Don't Talk Anymore (feat. Selena Gomez) [Official Video]",
+        "description": "Charlie Puth - We Don't Talk Anymore (feat. Selena Gomez) [Official Video]\nFrom Charlie's debut album Nine Track Mind!\nDownload/Stream: https://Atlantic.lnk.to/NineTrackMindID \n\nExclusive Nine Track Mind Bundles Available Here: http://smarturl.it/NTMBundlesYT\n\nLight Switch out now!\nDownload/stream: https://charlieputh.lnk.to/LightSwitchID\n\nSubscribe for more official content from Charlie Puth:\nhttps://Atlantic.lnk.to/CPsubscribeID\n\nFollow Charlie\nhttp://charlieputh.com \nhttp://twitter.com/charlieputh \nhttp://facebook.com/charlieputh \nhttp://instagram.com/charlieputh\nhttps://soundcloud.com/charlieputh\nhttps://www.tiktok.com/@charlieputh\n\nDirector: Phil Pinto\n\nThe official YouTube channel of Atlantic Records artist Charlie Puth. Subscribe for the latest music videos, performances, and more.\n\n#CharliePuth #WeDontTalkAnymore #MusicVideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3AtDnEC4zak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3AtDnEC4zak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3AtDnEC4zak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3AtDnEC4zak/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3AtDnEC4zak/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3AtDnEC4zak"
+        },
+        "videoOwnerChannelTitle": "Charlie Puth",
+        "videoOwnerChannelId": "UCwppdrjsBPAZg5_cUwQjfMQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EINHATcqNbCsXyWXZ5pxS9L6vFU",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi5BNTRGQTE1QjY2NUE5NTAz",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "The Chainsmokers - Closer (Official Video) ft. Halsey",
+        "description": "Official music video for ”Closer” by The Chainsmokers\nListen to The Chainsmokers: https://thechainsmokers.lnk.to/listenYD \nWatch more videos by The Chainsmokers: https://thechainsmokers.lnk.to/listenYD/youtube \n\nSubscribe to the official Chainsmokers YouTube channel: https://thechainsmokers.lnk.to/subscribeYD \n\nFollow The Chainsmokers\nFacebook: https://thechainsmokers.lnk.to/followFI \nInstagram: https://thechainsmokers.lnk.to/followII \nTwitter: https://thechainsmokers.lnk.to/followTI \nWebsite: https://thechainsmokers.lnk.to/followWI \nSpotify: https://thechainsmokers.lnk.to/followSI \n\nLyrics:\nSo, baby, pull me closer\nIn the backseat of your Rover\nThat I know you can't afford\nBite that tattoo on your shoulder\nPull the sheets right off the corner\nOf the mattress that you stole\nFrom your roommate back in Boulder\nWe ain't ever getting older\n\n#Closer #TheChainsmokers #Halsey #EDM",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0zGcUoRlhmw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0zGcUoRlhmw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0zGcUoRlhmw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0zGcUoRlhmw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0zGcUoRlhmw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0zGcUoRlhmw"
+        },
+        "videoOwnerChannelTitle": "ChainsmokersVEVO",
+        "videoOwnerChannelId": "UCRzzwLpLiUNIs6YOPe33eMg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YH8vhMK5AqCDxb_9jJnipgFWPEM",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi45NkYyMUU2ODY3QTU0OTgz",
+      "snippet": {
+        "publishedAt": "2021-02-24T21:53:25Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Justin Bieber - Baby ft. Ludacris",
+        "description": "REMASTERED IN HD! UP TO 4K!\nOfficial Music Video for Baby performed by Justin Bieber (ft. Ludacris).\n\nFollow Justin \nInstagram: https://www.instagram.com/justinbieber\nTwitter: https://twitter.com/justinbieber\nFacebook: https://www.facebook.com/JustinBieber\nTikTok: https://www.tiktok.com/@justinbieber\nWebsite: http://justinbiebermusic.com\n\nSign up to Justin’s newsletter: http://justinbiebermusic.com\n\n#JustinBieber #Ludacris #Baby #Remastered",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kffacxfA7G4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kffacxfA7G4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kffacxfA7G4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kffacxfA7G4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kffacxfA7G4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kffacxfA7G4"
+        },
+        "videoOwnerChannelTitle": "JustinBieberVEVO",
+        "videoOwnerChannelId": "UCHkj014U2CQ2Nv0UZeYpE_A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mpPF2wpF7FEmyP5IB-BHfNZ350o",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi4zQTkyMjEwN0U0QkU3RDg5",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Dua Lipa - New Rules (Official Music Video)",
+        "description": "The official music video for Dua Lipa - New Rules\n\nTaken from her self-titled debut studio album released in 2017, which featured the hit singles 'Be The One', 'IDGAF', 'Hotter Than Hell' & 'New Rules'\n\nSubscribe to the Dua Lipa channel for all the best and latest official music videos, behind the scenes and live performances. \nhttps://www.youtube.com/channel/UC-J-KZfRV8c13fOCkhXdLiQ?sub_confirmation=1\n\nSee more official videos from Dua Lipa here:\nhttps://www.youtube.com/playlist?list=PLNrotoZZ8BaoXT_LJuwEyESQlctWNDCwD\n\nListen to more from the album 'Dua Lipa' :\nhttps://www.youtube.com/playlist?list=OLAK5uy_lMtkOc6m2IXAsWWmUc1UvhMh3gvNIqrEI\n\nFollow Dua Lipa:\nInstagram:  https://dualipa.co/instagram\nFacebook: http://dualipa.co/facebook\nTikTok: https://www.tiktok.com/@dualipaofficial\nTwitter: http://dualipa.co/twitter\nYouTube: https://dualipa.co/youtube\n\nLyrics:\nOne, one, one, one, one...\n\nTalkin' in my sleep at night, makin' myself crazy\n(Out of my mind, out of my mind)\nWrote it down and read it out, hopin' it would save me\n(Too many times, too many times)\n\nMy love, he makes me feel like nobody else, nobody else\nBut my love, he doesn't love me, so I tell myself, I tell myself\n\nOne: Don't pick up the phone\nYou know he's only callin' 'cause he's drunk and alone\nTwo: Don't let him in\nYou'll have to kick him out again\nThree: Don't be his friend\nYou know you're gonna wake up in his bed in the morning\nAnd if you're under him, you ain't gettin' over him\n\nI got new rules, I count 'em\nI got new rules, I count 'em\nI gotta tell them to myself\nI got new rules, I count 'em\nI gotta tell them to myself\n\nI keep pushin' forwards, but he keeps pullin' me backwards\n(Nowhere to turn, no way)\n(Nowhere to turn, no)\nNow I'm standin' back from it, I finally see the pattern\n(I never learn, I never learn)\n\nBut my love, he doesn't love me, so I tell myself, I tell myself\nI do, I do, I do\n\nOne: Don't pick up the phone\nYou know he's only callin' 'cause he's drunk and alone\nTwo: Don't let him in\nYou'll have to kick him out again\nThree: Don't be his friend\nYou know you're gonna wake up in his bed in the morning\nAnd if you're under him, you ain't gettin' over him\n\nI got new rules, I count 'em\nI got new rules, I count 'em\nI gotta tell them to myself\nI got new rules, I count 'em\nI gotta tell them to myself\n\nPractice makes perfect\nI'm still tryna learn it by heart (I got new rules, I count 'em)\nEat, sleep, and breathe it\nRehearse and repeat it, 'cause I... (I got new...)\n\nOne: Don't pick up the phone (yeah)\nYou know he's only callin' 'cause he's drunk and alone (alone)\nTwo: Don't let him in (uh-ooh)\nYou'll have to kick him out again (again)\nThree: Don't be his friend\nYou know you're gonna wake up in his bed in the morning\nAnd if you're under him, you ain't gettin' over him\n\nI got new rules, I count 'em\nI got new rules, I count 'em\n(Whoa-ooh, whoa-ooh, whoa)\nI gotta tell them to myself\nI got new rules, I count 'em\n(Baby, you know I count 'em)\nI gotta tell them to myself\n\nDon't let him in, don't let him in\nDon't, don't, don't, don't...\nDon't be his friend, don't be his friend\nDon't, don't, don't, don't...\nDon't let him in, don't let him in\nDon't, don't, don't, don't...\nDon't be his friend, don't be his friend\nDon't, don't, don't, don't...\nYou're gettin' over him\n\nAbout Dua Lipa:\nBorn and raised in London to Kosovar-Albanian parents Dua Lipa signed to Warner Records in 2015, releasing her self titled debut in 2017 which featured the hit singles, 'Be The One', 'IDGAF', 'Hotter Than Hell' & her first UK #1 hit 'New Rules'. \n\nCritical success soon followed as Dua Lipa picked up Brit Awards for 'Best Female Solo Artist' and 'Best British Breakthrough Act' as well as Grammy Awards for 'Best New Artist' and 'Best Dance Recording' for the track 'Electricity' in collaboration with Silk City.\n\nHer second internationally acclaimed studio album 'Future Nostalgia' was released in 2020 and included the hit singles 'Don't Start Now, 'Break My Heart', 'Hallucinate' and 'Levitating', with the remix album 'Club Future Nostalgia' following shortly after featuring guest appearances from 'Blackpink', 'Missy Elliott', 'Madonna' and 'Gwen Stefani'. \n\n#DuaLipa #NewRules #DL1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k2qgadSvNyU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k2qgadSvNyU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k2qgadSvNyU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "k2qgadSvNyU"
+        },
+        "videoOwnerChannelTitle": "Dua Lipa",
+        "videoOwnerChannelId": "UC-J-KZfRV8c13fOCkhXdLiQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Quiu7QONwjRvFYV61ucrR2ozI98",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Clean Bandit - Rockabye (feat. Sean Paul & Anne-Marie) [Official Video]",
+        "description": "Download or stream our new album \"What Is Love?\"\n\nClick here to subscribe: http://bit.ly/SubscribeToCleanBandit\n\nFollow us:\nWebsite: http://cleanbandit.co.uk/\nFacebook: http://www.facebook.com/cleanbandit \nTwitter: http://www.twitter.com/cleanbandit \nInstagram: http://instagram.com/cleanbandit\nSoundcloud: http://www.soundcloud.com/cleanbandit\nSpotify: http://www.atlre.co.uk/CleanBanditSpo...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/papuvlVeZg8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/papuvlVeZg8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/papuvlVeZg8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/papuvlVeZg8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/papuvlVeZg8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "papuvlVeZg8"
+        },
+        "videoOwnerChannelTitle": "Clean Bandit",
+        "videoOwnerChannelId": "UCvhQPdeTHzIRneScV8MIocg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oXsIOQU9y4MBkqfenx3BxgPM7WI",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi4wMDkwRkI3NzExODA2MTFG",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Fifth Harmony - Work from Home (Official Video) ft. Ty Dolla $ign",
+        "description": "“Work from Home” by Fifth Harmony feat. Ty Dolla $ign\nListen to Fifth Harmony: https://FifthHarmony.lnk.to/listenYD\n \nWatch more Fifth Harmony videos: https://FifthHarmony.lnk.to/listenYC/youtube\n \nSubscribe to the official Fifth Harmony YouTube channel: https://FifthHarmony.lnk.to/subscribeYD\n \nFollow Fifth Harmony:\nFacebook: https://FifthHarmony.lnk.to/followFI\nTwitter: https://FifthHarmony.lnk.to/followTI\nInstagram: https://FifthHarmony.lnk.to/followII\nWebsite: https://FifthHarmony.lnk.to/followWI\nSpotify: https://FifthHarmony.lnk.to/followSI\n \nLyrics:\nI know you're always on the night shift\nBut I can't stand these nights alone\nAnd I don't need no explanation\n'Cause baby, you're the boss at home\n\n#FifthHarmony #WorkFromHome #PopMusic #Harmonizers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5GL9JoH4Sws/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5GL9JoH4Sws/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5GL9JoH4Sws/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5GL9JoH4Sws/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5GL9JoH4Sws/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5GL9JoH4Sws"
+        },
+        "videoOwnerChannelTitle": "FifthHarmonyVEVO",
+        "videoOwnerChannelId": "UC09d82usokACH1z5YeKnfiA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2_wrCEaRhHhC1_KTX7wHL289r8o",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Meghan Trainor - All About That Bass (Official Video)",
+        "description": "“All About That Bass” by Meghan Trainor\nListen to Meghan Trainor: https://MeghanTrainor.lnk.to/listenYD\nWatch more Meghan Trainor videos: https://MeghanTrainor.lnk.to/listenYD/youtube\n \nSubscribe to the official Meghan Trainor YouTube channel: https://MeghanTrainor.lnk.to/subscribeYD \n \nFollow Meghan Trainor:\nFacebook: https://MeghanTrainor.lnk.to/followFI\nTwitter: https://MeghanTrainor.lnk.to/followTI\nInstagram: https://MeghanTrainor.lnk.to/followII\nWebsite: https://MeghanTrainor.lnk.to/followWI\nSpotify: https://MeghanTrainor.lnk.to/followSI\n\n \n#MeghanTrainor #AllAboutThatBass #Pop\n\nLyrics:\n\n[Chorus]\nBecause you know I'm all about that bass\n'Bout that bass, no treble\nI'm all 'bout that bass, 'bout that bass, no treble\nI'm all 'bout that bass, 'bout that bass, no treble\nI'm all 'bout that bass, 'bout that bass\n\n[Verse 1]\nYeah, it's pretty clear, I ain't no size two\nBut I can shake it, shake it, like I'm supposed to do\n'Cause I got that boom boom that all the boys chase\nAnd all the right junk in all the right places\nI see the magazines working that Photoshop\nWe know that shit ain't real, come on now, make it stop\nIf you got beauty beauty just raise 'em up\n'Cause every inch of you is perfect from the bottom to the top\n\n[Pre-Chorus]\nYeah, my momma she told me don't worry about your size\nShe says, boys like a little more booty to hold at night\n(That booty, booty, uh, that booty booty)\nYou know I won't be no stick-figure, silicone Barbie doll\nSo, if that's what's you're into then go ahead and move along\n\n[Chorus]\nBecause you know I'm all about that bass\n'Bout that bass, no treble\nI'm all 'bout that bass, 'bout that bass, no treble\nI'm all 'bout that bass, 'bout that bass, no treble\nI'm all 'bout that bass, 'bout that bass\n\n[Verse 2]\nHey, I'm bringing booty back\nGo ahead and tell them skinny bitches that\nNo, I'm just playing I know you think you're fat\nBut I'm here to tell you\nEvery inch of you is perfect from the bottom to the top\n\n[Pre-Chorus]\nYeah, my momma she told me don't worry about your size\nShe says, boys like a little more booty to hold at night\n(That booty, booty, uh, that booty booty)\nYou know I won't be no stick-figure, silicone Barbie doll\nSo, if that's what's you're into then go ahead and move along\n\n\n[Chorus]\nBecause you know I'm all about that bass\n'Bout that bass, no treble\nI'm all 'bout that bass, 'bout that bass, no treble\nI'm all 'bout that bass, 'bout that bass, no treble\nI'm all 'bout that bass, 'bout that bass\nBecause you know I'm all about that bass\n'Bout that bass, no treble\nI'm all 'bout that bass, 'bout that bass, no treble\nI'm all 'bout that bass, 'bout that bass, no treble\nI'm all 'bout that bass, 'bout that bass\nBecause you know I'm all about that bass\n'Bout that bass, no treble\nI'm all 'bout that bass, 'bout that bass, no treble\nI'm all 'bout that bass, 'bout that bass, no treble\nI'm all 'bout that bass, 'bout that bass",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7PCkvCPvDXk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7PCkvCPvDXk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7PCkvCPvDXk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7PCkvCPvDXk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7PCkvCPvDXk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7PCkvCPvDXk"
+        },
+        "videoOwnerChannelTitle": "MeghanTrainorVEVO",
+        "videoOwnerChannelId": "UCf3cbfAXgPFL6OywH7JwOzA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NgePMcjE-hCbLY7q3nl36UbpIU8",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Sia - Chandelier (Official Video)",
+        "description": "Sia's official music video for \"Chandelier\"\nListen to more by Sia: https://sia.lnk.to/listenYD\nWatch more Sia videos: https://sia.lnk.to/listenYD/youtube\n\nSubscribe to the official Sia YouTube channel: https://sia.lnk.to/subscribeYD\n\nFollow Sia:\nFacebook: https://sia.lnk.to/followFI\nInstagram: https://sia.lnk.to/followII\nTwitter: https://sia.lnk.to/followTI\nWebsite: https://sia.lnk.to/followWI\nSpotify: https://sia.lnk.to/followSI\nYouTube: https://sia.lnk.to/listenYD/youtube\n\n---------\n\nChorus:\nI'm gonna swing from the chandelier\nFrom the chandelier\nI'm gonna live like tomorrow doesn't exist\nLike it doesn't exist\nI'm gonna fly like a bird through the night\nFeel my tears as they dry\nI'm gonna swing from the chandelier\nFrom the chandelier\n\n#Chandelier #Sia #ImGonnaSwing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2vjPBrBU-TM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2vjPBrBU-TM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2vjPBrBU-TM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2vjPBrBU-TM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2vjPBrBU-TM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2vjPBrBU-TM"
+        },
+        "videoOwnerChannelTitle": "SiaVEVO",
+        "videoOwnerChannelId": "UCmKdSrwf1e8coqAzUsrVHZw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CKh5Zfmb7gPMsMxrBdD0SOtcIhw",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi5FRjdGNDMzN0I2RTI3MDlG",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Bruno Mars - The Lazy Song (Official Music Video)",
+        "description": "The official music video for Bruno Mars' \"The Lazy Song\" from the album 'Doo-Wops and Hooligans''.\nStream: https://apple.co/38qBTEU\n\nDirected by Bruno Mars and Cameron Duddy\n\nChoreographed and Performed by Poreotics: http://poreotics.com\n\nComic Chimp Mask used by permission of Easter Unlimited, Inc. / FunWorld Div. All Rights Reserved. Copyright 2009.\n\n🔔 Subscribe for the latest official music videos, live performances, lyric videos, official audio, and more: https://Atlantic.lnk.to/BMsubscribe\n\nWatch All Of Bruno Mars’ Official Music Videos ➤ https://bit.ly/2U7I3mi\n\nSee Bruno Mars on tour! Visit http://brunomars.com/tour for dates and more info.\n\nGet Bruno Mars merchandise! https://brunom.rs/brunomarsstore\n\nFollow Bruno Mars:\nhttp://www.brunomars.com\nhttp://www.instagram.com/brunomars\nhttp://www.twitter.com/brunomars\nhttp://www.facebook.com/brunomars\n\nLYRICS\nToday I don't feel like doing anything\nI just wanna lay in my bed\nDon't feel like picking up my phone\nSo leave a message at the tone\n'Cause today I swear I'm not doing anything.\n\nUh!\nI'm gonna kick my feet up\nThen stare at the fan\nTurn the TV on, throw my hand in my pants\nNobody's gonna tell me I can't\n\nI'll be lounging on the couch,\nJust chillin' in my snuggie\nClick to MTV, so they can teach me how to dougie\n'Cause in my castle I'm the freaking man\n\nOh, yes I said it\nI said it\nI said it 'cause I can\n\nToday I don't feel like doing anything\nI just wanna lay in my bed\nDon't feel like picking up my phone\nSo leave a message at the tone\n'Cause today I swear I'm not doing anything\n\nNothing at all!\nOoh, hoo, ooh, hoo, ooh, ooh-ooh\nNothing at all\nOoh, hoo, ooh, hoo, ooh, ooh-ooh\n\nTomorrow I'll wake up, do some P90X\nMeet a really nice girl, have some really nice sex\nAnd she's gonna scream out: 'This is Great' (Oh my God, this is great)\nYeah\n\nI might mess around, get my college degree\nI bet my old man will be so proud of me\nBut sorry pops, you'll just have to wait\nHaha\n\nOh, yes I said it\nI said it\nI said it 'cause I can\n\nToday I don't feel like doing anything\nI just wanna lay in my bed\nDon't feel like picking up my phone\nSo leave a message at the tone\n'Cause today I swear I'm not doing anything\n\nNo, I ain't gonna comb my hair\n'Cause I ain't going anywhere\nNo, no, no, no, no, no, no, no, no\nI'll just strut in my birthday suit\nAnd let everything hang loose\nYeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah\n\nOoh\nToday I don't feel like doing anything\nI just wanna lay in my bed\nDon't feel like picking up my phone\nSo leave a message at the tone\n'Cause today I swear I'm not doing anything\n\nNothing at all\nNothing at all\nNothing at all\n\nThe official YouTube channel of Atlantic Records artist Bruno Mars. \n \n11x GRAMMY Award winner and 27x GRAMMY Award nominee Bruno Mars is a celebrated singer, songwriter, producer, and musician with iconic hits like \"The Lazy Song\", \"That's What I Like\", \"Just The Way You Are\", \"24K Magic\", \"Locked Out Of Heaven\", and \"When I Was Your Man\". His legendary body of work also includes blockbuster albums such as Doo-Wops & Hooligans, Unorthodox Jukebox, and 24K Magic, as well as era-defining collaborations like \"Uptown Funk\" with Mark Ronson, \"Finesse\" with Cardi B, and \"Nothin' On You\" with B.o.B. Forever classic, yet supremely innovative, Bruno continues to redefine music, style, and popular culture, pushing the boundaries of pop, R&B, funk, soul, hip-hop, and dance, and remains as influential as ever.\n\n\n#BrunoMars #TheLazySong #DooWopsandHooligans #OfficialMusicVideo #AtlanticRecords",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fLexgOxsZu0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fLexgOxsZu0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fLexgOxsZu0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fLexgOxsZu0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fLexgOxsZu0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fLexgOxsZu0"
+        },
+        "videoOwnerChannelTitle": "Bruno Mars",
+        "videoOwnerChannelId": "UCoUM-UJ7rirJYP8CQ0EIaHA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hbC_btoW0PM2JRgEJH-Lcmy_T6s",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Ellie Goulding - Love Me Like You Do (Official Video)",
+        "description": "The official music video for 'Love Me Like You Do', from Ellie’s album ‘Delirium’.\n\nOrder Ellie's new album 'Brightest Blue': https://elliegoulding.lnk.to/BrightestBlueID\n\nExplore more music by Ellie Goulding: https://EllieGoulding.lnk.to/StreamingID\n\nWatch more official videos from Ellie Goulding: https://EllieGoulding.lnk.to/WatchMoreID\n\nFollow Ellie:\nFacebook: https://EllieGoulding.lnk.to/FacebookID\nInstagram: https://EllieGoulding.lnk.to/InstagramID\nTwitter: https://EllieGoulding.lnk.to/TwitterID\nWebsite: https://EllieGoulding.lnk.to/WebsiteID\nTikTok: https://EllieGoulding.lnk.to/TikTokID\n\nWelcome to the official Ellie Goulding channel. Subscribe today to explore Ellie Goulding's musical legacy in-depth.\n\nLyrics:\n\nYou're the light, you're the night\nYou're the colour of my blood\nYou're the cure, you're the pain\nYou're the only thing I wanna touch\nNever knew that it could mean so much, so much\n\nYou're the fear, I don't care\nCause I've never been so high\nFollow me through the dark\nLet me take you past the satellites\nYou can see the world you brought to life, to life\n\nSo love me like you do, la-la-love me like you do\nLove me like you do, la-la-love me like you do\nTouch me like you do, ta-ta-touch me like you do\nWhat are you waiting for?\n\nFading in, fading out\nOn the edge of paradise\nEvery inch of your skin is a Holy Grail I've got to find\nOnly you can set my heart on fire, on fire\nYeah\n\nI'll let you set the pace\nCause I'm not thinking straight\nMy head's spinning around, I can't see clear no more\nWhat are you waiting for?\n\nLove me like you do, la-la-love me like you do\nLove me like you do, la-la-love me like you do\nTouch me like you do, ta-ta-touch me like you do\nWhat are you waiting for?\nLove me like you do, la-la-love me like you do\nLove me like you do, la-la-love me like you do\nTouch me like you do, ta-ta-touch me like you do\nWhat are you waiting for?\n\nI'll let you set the pace\nCause I'm not thinking straight\nMy head's spinning around, I can't see clear no more\nWhat are you waiting for?\n\nLove me like you do, la-la-love me like you do\nLove me like you do, la-la-love me like you do\nTouch me like you do, ta-ta-touch me like you do\nWhat are you waiting for?\nLove me like you do, la-la-love me like you do\nLove me like you do, la-la-love me like you do\nTouch me like you do, ta-ta-touch me like you do\nWhat are you waiting for?\n\n#EllieGoulding #lovemelikeyoudo #officialvideo\n\n\nMusic video by Ellie Goulding performing Love Me Like You Do. (C) 2015 Polydor Ltd. (UK)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AJtDXIazrMo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AJtDXIazrMo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AJtDXIazrMo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AJtDXIazrMo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AJtDXIazrMo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AJtDXIazrMo"
+        },
+        "videoOwnerChannelTitle": "EllieGouldingVEVO",
+        "videoOwnerChannelId": "UCvu362oukLMN1miydXcLxGg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Wd9-sZb9VwHA4CGnlXc3WdXgu6Y",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi5CMUM0NzY5NzdEQzlGRjAx",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Shawn Mendes - Treat You Better",
+        "description": "New album WONDER available now\nListen here: https://wonder.lnk.to/OutNow\n\nFollow Shawn Mendes\nInstagram | https://www.instagram.com/shawnmendes/\nTwitter | https://twitter.com/ShawnMendes\nFacebook | https://www.facebook.com/ShawnMendesOfficial\nSnap | https://www.snapchat.com/add/shawnmendes1\nTikTok | https://www.tiktok.com/@shawnmendes\nWebsite | http://www.shawnmendesofficial.com/\n\nSubscribe to YouTube\nhttps://ShawnMendes.lnk.to/Subscribe-OnYouTube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lY2yjAdbvdQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lY2yjAdbvdQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lY2yjAdbvdQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lY2yjAdbvdQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lY2yjAdbvdQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lY2yjAdbvdQ"
+        },
+        "videoOwnerChannelTitle": "ShawnMendesVEVO",
+        "videoOwnerChannelId": "UC4-TgOSMJHn-LtY4zCzbQhw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZVZgGiyMEgVVW4Y8dj6Ou1wMjaU",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "MAGIC! - Rude (Official Video)",
+        "description": "“Don’t Kill the Magic”, the debut album from MAGIC!, Available Now on iTunes: http://smarturl.it/DKTMiTunes?IQid=yt  Follow Magic! Website http://www.ournameismagic.com  Facebook https://www.facebook.com/ournameisMAGIC Twitter https://twitter.com/ournameismagic Instagram http://instagram.com/ournameismagic  Music video by MAGIC! performing Rude. (C) 2013 Sony Music Entertainment International Limited",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PIh2xe4jnpk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PIh2xe4jnpk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PIh2xe4jnpk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PIh2xe4jnpk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PIh2xe4jnpk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PIh2xe4jnpk"
+        },
+        "videoOwnerChannelTitle": "ournameismagicVEVO",
+        "videoOwnerChannelId": "UCoJ7iJz1vKwUqiaroO167sA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KFc8mO0dKjtdKCfRpjY9UKefIpQ",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi5FRkU3NjdFNDBDMjFBNTlF",
+      "snippet": {
+        "publishedAt": "2020-04-01T11:54:07Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Justin Bieber - What Do You Mean? (Lyric Video)",
+        "description": "‘Purpose’ Available Everywhere Now!\niTunes: http://smarturl.it/PurposeDlx?IQid=VEVO1113 \nStream & Add To Your Spotify Playlist: http://smarturl.it/sPurpose?IQid=VEVO1113 \nGoogle Play: http://smarturl.it/gPurpose?IQid=VEVO1113 \nAmazon: http://smarturl.it/aPurpose?IQid=VEVO1113 \n\nDirector: Laban\nProduction Company: SB Films, Occupy Films\nProducers: Justin Bieber, Scott \"Scooter\" Braun, Cori Weber\nVideo Commissioner: Cori Weber\nDirector of Photography: Erik Bragg, Jeff Morris, Marque Cox, Mike Brown\n \nDownload or stream the single below:\niTunes: http://smarturl.it/iWDYM?IQid=YT\nGoogle: http://smarturl.it/gWDYM?IQid=YT\nAmazon: http://smarturl.it/aWDYM?IQid=YT\nStream On Spotify & Add To Your Playlist: http://smarturl.it/sWDYM?IQid=YT\n \nFollow Justin:\nhttp://facebook.com/justinbieber\nhttp://twitter.com/justinbieber\nhttp://instagram.com/justinbieber\nhttp://shots.com/justinbieber \nhttp://fahlo.me/justinbieber\nAnd sign up to Justin’s newsletter: http://justinbiebermusic.com\nSnapchat: rickthesizzler\n\nFeaturing Ryan Sheckler:\nhttp://facebook.com/RyanSheckler\nhttp://twitter.com/RyanSheckler\nhttp://instagram.com/RyanSheckler\nhttp://redbull.tv/shecklersessions4\nSnapchat: tickle_shecks\n \nLyrics:\nWhat do you mean?\nWhen you nod your head yes\nBut you wanna say no\nWhat do you mean?\nWhen you don’t want me to move\nBut you tell me to go\nWhat do you mean?\nSaid we’re running out of time\nTrying to catch the beat make up your mind\nWhat do you mean?\nBetter make up your mind\nWhat do you mean?\nYou’re so indecisive of what I’m saying\nDon’t want us to end where do I start\nFirst you wanna go left and you want to turn right\nFirst you up and you’re down and then between\n\nOhh I really want to know…\n\nWhen you nod your head yes\nBut you wanna say no\nWhat do you mean?\nWhat do you mean?\nBut you tell me to go\nSaid we’re running out of time\nWhat do you mean?\nBetter make up your mind\nWhat do you mean?\nYou’re overprotective when I’m leaving\nTrying to compromise but I can’t win\nYou wanna make a point but you keep preaching\nYou had me from the start won’t let this end\nFirst you wanna go left and you want to turn right\nWanna argue all day make love all night\nFirst you up and you’re down and then between\nOhh I really want to know…\nWhat do you mean?\nWhen you nod your head yes\nWhat do you mean?\nWhen you don’t want me to move\nBut you tell me to go\nWhat do you mean?\nSaid we’re running out of time\nWhat do you mean?\nBetter make up your mind\nWhat do you mean?\n\nhttp://vevo.ly/pEGQgx",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NywWB67Z7zQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NywWB67Z7zQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NywWB67Z7zQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NywWB67Z7zQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NywWB67Z7zQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NywWB67Z7zQ"
+        },
+        "videoOwnerChannelTitle": "JustinBieberVEVO",
+        "videoOwnerChannelId": "UCHkj014U2CQ2Nv0UZeYpE_A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PYtuLVHH7hyt1gFv_YFqEmIvNbI",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi43REU2ODY1MzU3ODlENEND",
+      "snippet": {
+        "publishedAt": "2022-04-29T07:25:52Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "John Legend - All of Me (Official Video)",
+        "description": "Official music video for “All of Me” by John Legend \u200b\nListen to John Legend: https://found.ee/JohnLegend_Listen\n\u200b\nSubscribe to the official John Legend YouTube channel: https://found.ee/JohnLegend_YTs\n\u200b\nWatch more John Legend videos: https://found.ee/JohnLegend_YT \u200b\n\u200b\nFollow John Legend: \u200b\nFacebook: https://found.ee/JohnLegend_FB\nInstagram: https://found.ee/JohnLegend_IG \u200b\nTikTok: https://found.ee/JohnLegend_TikTok \u200b\nTwitter: https://found.ee/JohnLegend_TW\nWebsite: https://found.ee/JL_Official\u200b\nSpotify: https://found.ee/JohnLegend_SP\n\u200b\n#JohnLegend #AllOfMe #LoveInTheFuture\n\nChorus: \n'Cause all of me\nLoves all of you\nLove your curves and all your edges\nAll your perfect imperfections\nGive your all to me\nI'll give my all to you\nYou're my end and my beginnin'\nEven when I lose, I'm winnin'",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/450p7goxZqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/450p7goxZqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/450p7goxZqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/450p7goxZqg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/450p7goxZqg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "450p7goxZqg"
+        },
+        "videoOwnerChannelTitle": "johnlegendVEVO",
+        "videoOwnerChannelId": "UCNnnwVSI5Ndo2I4Y-LPuuew"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8svvjKNL74X5o5_mvKLVzroRHaE",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Christina Perri - A Thousand Years [Official Music Video]",
+        "description": "© 2011 WMG\n\nthe official music video of “a thousand years”\n \nbuy/listen to 'a thousand years': https://christinaperri.lnk.to/athousandyears\ndirected by jay martin\n\n\"a thousand years\" is a song me + my best friend david hodges wrote for bella + edward. we wrote it after we so luckily screened the movie + i couldn't be more proud of this song. to all my fellow twihards, thanks for hearing the e/b love :)\n\nfollow christina perri:\n- website: http://christinaperri.com\n- facebook: http://facebook.com/christinaperrimusic\n- instagram: https://instagram.com/christinaperri/\n- twitter: http://twitter.com/christinaperri\n- tiktok: https://tiktok.com/@christinaperri\n\n#ChristinaPerri #AThousandYears",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rtOvBOTyX00/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rtOvBOTyX00/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rtOvBOTyX00/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rtOvBOTyX00/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rtOvBOTyX00/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rtOvBOTyX00"
+        },
+        "videoOwnerChannelTitle": "Christina Perri",
+        "videoOwnerChannelId": "UC2gMECGMn5TVbRN5S5tKb8Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "b4LtjqQ2v8qFA2umutkbamP2GEk",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Fifth Harmony - Worth It (Official Video) ft. Kid Ink",
+        "description": "“Worth It” by Fifth Harmony\nListen to Fifth Harmony: https://FifthHarmony.lnk.to/listenYD\n \nWatch more Fifth Harmony videos: https://FifthHarmony.lnk.to/listenYC/youtube\n \nSubscribe to the official Fifth Harmony YouTube channel: https://FifthHarmony.lnk.to/subscribeYD\n \nFollow Fifth Harmony:\nFacebook: https://FifthHarmony.lnk.to/followFI\nTwitter: https://FifthHarmony.lnk.to/followTI\nInstagram: https://FifthHarmony.lnk.to/followII\nWebsite: https://FifthHarmony.lnk.to/followWI\nSpotify: https://FifthHarmony.lnk.to/followSI\n \nLyrics:\nGive it to me I'm worth it, baby, I'm worth it\nUh huh, I'm worth it, gimme gimme, I'm worth it\nGive it to me I'm worth it, baby, I'm worth it\nUh huh, I'm worth it, gimme gimme, I'm worth it\n\n#FifthHarmony #WorthIt #PopMusic #Harmonizers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YBHQbu5rbdQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YBHQbu5rbdQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YBHQbu5rbdQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YBHQbu5rbdQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YBHQbu5rbdQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YBHQbu5rbdQ"
+        },
+        "videoOwnerChannelTitle": "FifthHarmonyVEVO",
+        "videoOwnerChannelId": "UC09d82usokACH1z5YeKnfiA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1kQZRD3aTkQc2wWRpeoqhATV8Do",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi44QzVGQUU2QjE2NDgxM0M4",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Ariana Grande ft. Nicki Minaj - Side To Side (Official Video) ft. Nicki Minaj",
+        "description": "Side To Side ft. Nicki Minaj (Official Video)\nListen to 'Dangerous Woman' the album: https://arianagrande.lnk.to/dangerouswoman-albumYD\n\nBest of Ariana Grande https://goo.gl/XmsuFK\nAriana Grande Audio https://goo.gl/af3XcF\nSubscribe for more https://goo.gl/Fubqyy\n\nConnect with Ariana:\nhttps://twitter.com/ArianaGrande\nhttp://instagram.com/arianagrande\nhttps://www.facebook.com/arianagrande\nhttp://www.arianagrande.com\n\nDirected by Hannah Lux Davis\nProduced by Brandon Bonfiglio\nFor London Alley \n\nLyrics:\n\nI've been here all night (Ariana)\nI've been here all day (Nicki Minaj)\nAnd boy, got me walkin' side to side\n(Let them hoes know)\nI'm talkin' to ya\nSee you standing over there with your body\nFeeling like I wanna rock with your body\nAnd we don't gotta think 'bout nothin' ('Bout nothin')\nI'm comin' at ya\n'Cause I know you got a bad reputation\nDoesn't matter, 'cause you give me temptation\nAnd we don't gotta think 'bout nothin' ('Bout nothin')\nThese friends keep talkin' way too much\nSay I should give you up\nCan't hear them no, 'cause I\nI've been here all night\nI've been here all day\nAnd boy, got me walkin' side to side\nI've been here all night\nI've been here all day\nAnd boy, got me walkin' side to side (Side to side)\nBeen tryna hide it\nBaby what's it gonna hurt if they don't know?\nMakin' everybody think that we solo\nJust as long as you know you got me (You got me)\nAnd boy I got ya\n'Cause tonight I'm making deals with the devil\nAnd I know it's gonna get me in trouble\nJust as long as you know you got me\nThese friends keep talkin' way too much\nSay I should give you up\nCan't hear them no, 'cause\nI've been here all night\nI've been here all day\nAnd boy, got me walkin' side to side (Side to side)\nI've been here all night\n(Been here all night, baby)\nI've been here all day\n(Been here all day, baby)\nAnd boy, got me walkin' side to side (Side to side)\nThis the new style with the fresh type of flow\nWrist icicle, ride dick bicycle\nCome true yo, get you this type of blow\nIf you wanna menage I got a tricycle\nAll these bitches, flows is my mini-me\nBody smoking, so they call me young Nicki chimney\nRappers in they feelings cause they feelin' me\nUh, I-I give zero fucks and I got zero chill in me\nKissing me, copped the blue box that say Tiffany\nCurry with the shot, just tell 'em to call me Stephanie\nGun pop and I make my gum pop\nI'm the queen of rap, young Ariana run pop\nThese friends keep talkin' way too much\nSay I should give him up\nCan't hear them no, 'cause I\nI've been here all night\nI've been here all day\nAnd boy, got me walkin' side to side (Side to side)\nI've been here all night\n(Been here all night baby)\nI've been here all day\n(Been here all day baby)\nBoy, got me walkin' side to side (Side to side)\nThis the new style with the fresh type of flow\nWrist icicle, ride dick bicycle\nCome true yo, get you this type of blow\nIf you wanna menage I got a tricycle\n\nMusic video by Ariana Grande performing Side To Side ft. Nicki Minaj. © 2016 Republic Records, a division of UMG Recordings, Inc.\n\n#DangerousWoman #ArianaGrande #NickiMinaj #SideToSide",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SXiSVQZLje8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SXiSVQZLje8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SXiSVQZLje8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SXiSVQZLje8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SXiSVQZLje8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SXiSVQZLje8"
+        },
+        "videoOwnerChannelTitle": "ArianaGrandeVevo",
+        "videoOwnerChannelId": "UC0VOyT2OCBKdQhF3BAbZ-1g"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ugw67zRwS8_MMfyUj7ItQyv_MHM",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi4wQTI4OEZFRUE0Q0Q3ODQw",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Rihanna - Diamonds",
+        "description": "Get Rihanna’s eighth studio album ANTI now:\nDownload on TIDAL: http://smarturl.it/downloadANTI\nStream on TIDAL: http://smarturl.it/streamANTIdlx\nDownload on iTunes: http://smarturl.it/dlxANTI\nDownload on Google Play: http://smarturl.it/ANTIdlxgp\nDownload on Amazon: http://geni.us/amzANTI \n\nhttp://www.vevo.com/watch/USUV71201766?utm_source=youtube&utm_medium=description&utm_campaign=ytd\n\nMusic video by Rihanna performing Diamonds. ©:  The Island Def Jam Music Group",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lWA2pjMjpBs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lWA2pjMjpBs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lWA2pjMjpBs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lWA2pjMjpBs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lWA2pjMjpBs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lWA2pjMjpBs"
+        },
+        "videoOwnerChannelTitle": "RihannaVEVO",
+        "videoOwnerChannelId": "UC2xskkQVFEpLcGFnNSLQY0A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7D6qKE9dJrlGvglBAbEQ2kt7rPI",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Jennifer Lopez - On The Floor ft. Pitbull",
+        "description": "Music video by Jennifer Lopez performing On The Floor feat. Pitbull. © 2011 Island Records\n#VEVOCertified on April 15, 2012. http://www.vevo.com/certified http://www.youtube.com/vevocertified\n\n#JenniferLopez #OnTheFloor #Vevo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t4H_Zoh7G5A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t4H_Zoh7G5A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t4H_Zoh7G5A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t4H_Zoh7G5A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t4H_Zoh7G5A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "t4H_Zoh7G5A"
+        },
+        "videoOwnerChannelTitle": "JenniferLopezVEVO",
+        "videoOwnerChannelId": "UCx1f1u4XlFFr0YgqF3wB4lQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "K6fHGVeo9Ana5xYM4n6LiGaL6yI",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi4xQzNEQjU3NzFFNzQ1M0Q0",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Gotye - Somebody That I Used To Know (feat. Kimbra) [Official Music Video]",
+        "description": "The official music video for “Somebody That I Used To Know” by Gotye, featuring Kimbra. From the album Making Mirrors. Get the song here: https://gotye.lnk.to/STIUTK\n \nMusic video by Natasha Pincus\nhttps://starkravingproductions.com.au\n \nOfficial Gotye Store:\nhttps://store.gotye.com\n \nFollow Gotye online:\nhttp://www.gotye.com\nhttps://instagram.com/gotye\nhttps://facebook.com/gotye\nhttps://twitter.com/gotye\n \nSubscribe to Gotye on YouTube: http://gotye.lnk.to/subscribe\n\nVideo credits:\nDirected, produced and edited by Natasha Pincus\nBody art by Emma Hack\nCinematographer and colourist: Warwick Field\nScenic artist: Howard Clark\nKey grip: Rob Hansford\nAssistants: Rose Cidoni, Claire Leighton, Rob Murray\nOriginal artwork by Frank De Backer\n\nMusic credits:\nProduced by Wally De Backer\nMixed by Francois Tetaz, assisted by Wally at Moose Mastering, Richmond, VIC\nBass recorded by Wally in Lucas Taranto's loungeroom, Melbourne, VIC\nAll other sounds put together by Wally in The Barn, Merricks, VIC\n\nBass guitar: Lucas Taranto\nLead and backing vocals: Kimbra\nGuitar, flutes, percussion and synth samples, lead and backing vocals: Wally\n\nContains a sample of the recording Seville as performed by Luiz Bonfa. Courtesy of Geffen Records, under license from Universal Music Enterprises.  Used by permission. All rights reserved.  Written by Luiz Bonfa and published by Sasqua Music. Used by permission.\n\nLYRICS\n\nNow and then I think of when we were together\nLike when you said you felt so happy you could die\nTold myself that you were right for me\nBut felt so lonely in your company\nBut that was love and it's an ache I still remember\n\nYou can get addicted to a certain kind of sadness\nLike resignation to the end\nAlways the end\nSo when we found that we could not make sense\nWell you said that we would still be friends\nBut I'll admit that I was glad that it was over\n\nBut you didn't have to cut me off\nMake out like it never happened\nAnd that we were nothing\nAnd I don't even need your love\nBut you treat me like a stranger\nAnd that feels so rough\nYou didn't have to stoop so low\nHave your friends collect your records\nAnd then change your number\nI guess that I don't need that though\nNow you're just somebody that I used to know\n\nNow and then I think of all the times you screwed me over\nBut had me believing it was always something that I'd done\nAnd I don't wanna live that way\nReading into every word you say\nYou said that you could let it go \nAnd I wouldn't catch you hung up on somebody that you used to know...\n\nBut you didn't have to cut me off\nMake out like it never happened\nAnd that we were nothing\nAnd I don't even need your love\nBut you treat me like a stranger\nAnd that feels so rough\nYou didn't have to stoop so low\nHave your friends collect your records\nAnd then change your number\nI guess that I don't need that though\nNow you're just somebody that I used to know\n\nI used to know\nThat I used to know\n\nSomebody...\n*************",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8UVNT4wvIGY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8UVNT4wvIGY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8UVNT4wvIGY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8UVNT4wvIGY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8UVNT4wvIGY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8UVNT4wvIGY"
+        },
+        "videoOwnerChannelTitle": "gotyemusic",
+        "videoOwnerChannelId": "UCFC9LamNMmLioW643VZ40OA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "foEYPuHi4L8MgjiEqmkrHkufIRM",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi45MTRCQjE3QzVGNDREODIz",
+      "snippet": {
+        "publishedAt": "2020-04-01T11:54:13Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Camila Cabello - Havana (Vertical Video) ft. Young Thug",
+        "description": "\"Havana\" – Spotify Vertical Video \nVideo Director: Sam Lecca\nAvailable at Spotify: http://smarturl.it/Havana_Sptfy \n\nFind Camila Here: \nTwitter: @camila_cabello\nIG: @camila_cabello \nFacebook: @97camilacabello \nWebsite: www.camilacabello.com \n \n#Havana\n#HAVANAtheMOVIE\n#Camila\n#CamilaCabello\n \n(C) 2017 Simco Ltd. under exclusive license to Epic Records, a division of Sony Music Entertainment Category: Music License: Standard YouTube License\n \nCategory: Music",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pz95u3UVpaM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pz95u3UVpaM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pz95u3UVpaM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pz95u3UVpaM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pz95u3UVpaM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pz95u3UVpaM"
+        },
+        "videoOwnerChannelTitle": "CamilaCabelloVEVO",
+        "videoOwnerChannelId": "UCk0wwaFCIkxwSfi6gpRqQUw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Vwo6z8fjxSjKubb6o0Iy3UGqzi0",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi45NDlDQUFFOThDMTAxQjUw",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "ZAYN - Dusk Till Dawn (Official Video) ft. Sia",
+        "description": "ZAYN's \"Dusk Till Dawn\" ft. Sia on iTunes: http://smarturl.it/ZDTD/itunes?IQid=yt\nStream/Add on Spotify: http://smarturl.it/ZDTD/spotify?IQid=yt\nGet it on Amazon Music: http://smarturl.it/ZDTD/amazon?IQid=yt\nStream on Apple Music: http://smarturl.it/ZDTD/applemusic?IQid=yt\nGet it on Google Play: http://smarturl.it/ZDTD/googleplay?IQid=yt\nStream on Deezer: http://smarturl.it/ZDTD/deezer?IQid=yt\n \nFollow ZAYN -\nFacebook: http://www.facebook.com/ZAYN\nTwitter: https://twitter.com/zaynmalik\nInstagram: http://www.instagram.com/ZAYN\nSnapchat: https://www.snapchat.com/add/ZAYN\nYouTube Subscribe: http://smarturl.it/ZAYNxVEVO\nSpotify: http://smarturl.it/ZAYNSpotify\nSite: http://www.inZAYN.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tt2k8PGm-TI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tt2k8PGm-TI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tt2k8PGm-TI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tt2k8PGm-TI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tt2k8PGm-TI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tt2k8PGm-TI"
+        },
+        "videoOwnerChannelTitle": "ZaynVEVO",
+        "videoOwnerChannelId": "UCy5FUarBYUHFpPtYVuvzgcA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BHDsWalECbe6qWkagZ9pF0G20S0",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi40NzEyNzI1NzVCNTRBODVD",
+      "snippet": {
+        "publishedAt": "2020-04-01T11:55:08Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "TONES AND I - DANCE MONKEY (OFFICIAL VIDEO)",
+        "description": "2nd single from debut EP 'The Kids Are Coming' out now. \nAvailable on all music platforms\n\nWatch Tones And I's 'Artist On The Rise' video: https://youtu.be/UkwZILz_EKE\n\nTones And I - Dance Monkey - https://tonesandi.lnk.to/DanceMonkeyYT\n\nDirected by: Liam Kelly & Nick Kozakis\nDirector of Photography: Carl Allison\nMakeup by: Danielle Ruth\nProduced by: Visible Studios\nhttps://www.visiblestudios.com.au/\n\nDon't forget to subscribe to my channel: http://smarturl.it/TonesAndI.YT\n\nFollow: \nhttps://www.tonesandi.com\nhttps://www.facebook.com/TONESANDI\nhttps://www.instagram.com/tonesandi\n\nContact Management Worldwide: \nLemon Tree Music + Artists Only\nmgmt@tonesandi.com\n\nLYRICS:\nThey say oh my god I see the way you shine \nTake your hands my dear and place them both in mine\nYou know you stopped me dead while I was passing by\nAnd now I beg to see you dance just one more time \nOhhh I \nSee you see you seen you every time \nand oh my I, I like you style \nYou, you make me make me make me wanna cry \nAnd now I beg to see you dance just one more time \n\nSo they say \nDance for me\nDance for me \nDance for me \nOh oh oh \nI’ve never seen anybody do the things you do before \nThey say\nMove for me \nMove for me \nMove for me \nEh eh eh \nAnd when you’re done i'll make you do it all again \n\nI said \nOh my god I see you walking by \nTake my hands my dear and look me in my eyes\nJust like a monkey I’ve been dancing my whole life \nBut you just beg to see me dance just one more time \nOoh I \nSee you see you seen you every time\nAnd oh my I, I like your style \nYou, you make me make me make me wanna cry \nAnd now I beg to see you dance just one more time \n\nSo they say \nDance for me\nDance for me \nDance for me \nOh oh oh\nI’ve never seen anybody do the things you do before \nThey say \nMove for me \nMove for me \nMove for me \nEh eh eh \nAnd when you’re done i'll make you do it all again\nThey say \nDance for me \nDance for me \nDance for me \nOh oh oh, oh oh oh oh \nI’ve never seen anybody do the things you do before \nThey say \nMove for me \nMove for me \nMove for me \nEh eh eh \nAnd when you’re done i'll make you do it all again\n\nOooooo\n\nThey say \nDance for me\nDance for me \nDance for me \nOh oh oh\nI’ve never seen anybody do the things you do before \nThey say \nMove for me \nMove for me \nMove for me \nEh eh eh \nAnd when you’re done i'll make you do it all again\nThey say \nDance for me \nDance for me \nDance for me \nOh oh oh, oh oh oh oh \nI’ve never seen anybody do the things you do before \nThey say \nMove for me \nMove for me \nMove for me \nEh eh eh \nAnd when you’re done i'll make you do it all again\nAll again",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q0hyYWKXF0Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q0hyYWKXF0Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q0hyYWKXF0Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q0hyYWKXF0Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q0hyYWKXF0Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q0hyYWKXF0Q"
+        },
+        "videoOwnerChannelTitle": "Tones And I",
+        "videoOwnerChannelId": "UCQeiBlCcS4-XGwFjrvDn96w"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HGBTMu_Nzk2EtAp9QKyfKqNBMpc",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi4wRjhFM0MxMTU1MEUzQ0VB",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Jessie J, Ariana Grande, Nicki Minaj - Bang Bang (Official Video)",
+        "description": "Get Jessie J + Ariana Grande + Nicki Minaj \"Bang Bang\" now! http://smarturl.it/JSJSweetTalkerdlxDA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0HDdjwpPM3Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0HDdjwpPM3Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0HDdjwpPM3Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0HDdjwpPM3Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0HDdjwpPM3Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0HDdjwpPM3Y"
+        },
+        "videoOwnerChannelTitle": "JessieJVEVO",
+        "videoOwnerChannelId": "UCGej5zp_KWZ-b_1w4Rq2hyA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "As_Q6NEq-I9rCN2d44ZnsHrEpVs",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi4zNEMzQ0FDREY1MkE1RkQ1",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Bruno Mars - Just The Way You Are (Official Music Video)",
+        "description": "The official music video for Bruno Mars' \"Just The Way You Are\" from the album ‘Doo-Wops & Hooligans’.\n\nDirected by Ethan Lader\n\nInspired by the artwork of Erika Iris Simmons\n\n🔔 Subscribe for the latest official music videos, live performances, lyric videos, official audio, and more ➤ https://Atlantic.lnk.to/BMsubscribe\n\nWatch all of Bruno Mars’ Official Music Videos ➤ https://bit.ly/2U7I3mi\n\nSee Bruno Mars on tour ➤ Visit http://brunomars.com/tour for dates and more info.\n\nGet Bruno Mars merchandise ➤ https://brunom.rs/brunomarsstore\n\nFollow Bruno Mars:\nhttp://www.brunomars.com\nhttp://www.instagram.com/brunomars\nhttp://www.twitter.com/brunomars\nhttp://www.facebook.com/brunomars\n\nLYRICS\nOh, her eyes, her eyes, make the stars look like they're not shining\nHer hair, her hair, falls perfectly without her trying \nShe's so beautiful, and I tell her every day\n\nYeah, I know, I know, when I compliment her she won't believe me\nAnd it's so, it's so, sad to think that she don't see what I see\nBut every time she asks me do I look ok, I say\n\nWhen I see your face, there's not a thing that I would change\nCause you're amazing, just the way you are\nAnd when you smile, the whole world stops and stares for a while\nBecause girl you're amazing, just the way you are. Yeah.\n\nHer lips, her lips, I could kiss them all day if she let me\nHer laugh, her laugh, she hates but I think it's so sexy\nShe's so beautiful, and I tell her every day\n\nOh, you know, you know, you know, I'd never ask you to change\nIf perfect's what you're searching for then just stay the same\nSo, don't even bother asking if you look ok\nYou know I'll say\n\nWhen I see your face, there's not a thing that I would change\nCause you're amazing, just the way you are\nAnd when you smile, the whole world stops and stares for a while\nBecause girl you're amazing, just the way you are\nThe way you are, the way you are\nGirl you're amazing, just the way you are\n\nWhen I see your face, there's not a thing that I would change\nCause you're amazing, just the way you are\nAnd when you smile, the whole world stops and stares for a while\nCause girl you're amazing, just the way you are. Yeah.\n\nThe official YouTube channel of Atlantic Records artist Bruno Mars. \n \n11x GRAMMY Award winner and 27x GRAMMY Award nominee Bruno Mars is a celebrated singer, songwriter, producer, and musician with iconic hits like \"The Lazy Song\", \"That's What I Like\", \"Just The Way You Are\", \"24K Magic\", \"Locked Out Of Heaven\", and \"When I Was Your Man\". His legendary body of work also includes blockbuster albums such as Doo-Wops & Hooligans, Unorthodox Jukebox, and 24K Magic, as well as era-defining collaborations like \"Uptown Funk\" with Mark Ronson, \"Finesse\" with Cardi B, and \"Nothin' On You\" with B.o.B. Forever classic, yet supremely innovative, Bruno continues to redefine music, style, and popular culture, pushing the boundaries of pop, R&B, funk, soul, hip-hop, and dance, and remains as influential as ever.\n\n#BrunoMars #JustTheWayYouAre #DooWopsandHooligans #OfficialMusicVideo #AtlanticRecords",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LjhCEhWiKXk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LjhCEhWiKXk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LjhCEhWiKXk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LjhCEhWiKXk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LjhCEhWiKXk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LjhCEhWiKXk"
+        },
+        "videoOwnerChannelTitle": "Bruno Mars",
+        "videoOwnerChannelId": "UCoUM-UJ7rirJYP8CQ0EIaHA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YQFGRJuQDK2LWJEin8N9dkWha8A",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi43OTNDNTk0OUNGMDA1MUNG",
+      "snippet": {
+        "publishedAt": "2020-04-01T11:54:21Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Jason Derulo - Swalla (feat. Nicki Minaj & Ty Dolla $ign) [Official Music Video]",
+        "description": "Jason Derulo - Swalla (feat. Nicki Minaj & Ty Dolla $ign) [Official Music Video]\nDownload/stream Swalla here: http://wbr.lnk.to/swalla\n\nDirected by Gil Green\n\nSubscribe to Jason Derulo's YouTube Channel: \nhttps://youtube.com/c/JasonDerulo?sub_confirmation=1\n\nFollow Jason Derulo:\nTikTok: https://www.tiktok.com/@jasonderulo \u202a\nInstagram: http://www.instagram.com/jasonderulo/ \n\u202aFacebook: http://facebook.com/jasonderulo \u202a\nTwitter: http://twitter.com/jasonderulo \u202a\nWebsite: http://www.jasonderulo.com/\n\n\nLyrics:\nDrank\nYoung Money\n\nLove in a thousand different flavors\nI wish that I could taste them all tonight\nNo, I ain't got no dinner plans\nSo you should bring all your friends\nI swear that a-all y'all my type\n\nAll you girls in here, if you're feeling thirsty\nCome on take a sip 'cause you know what I'm servin', ooh\n\nShimmy shimmy yay, shimmy yay, shimmy ya (Drank)\nSwalla-la-la (Drank)\nSwalla-la-la (Swalla-la-la)\nSwalla-la-la\nShimmy shimmy yay, shimmy yay, shimmy ya(Drank)\nSwalla-la-la (Drank)\nSwalla-la-la (Swalla-la-la)\nSwalla-la-la\nFreaky, freaky gyal\nMy freaky, freaky gyal\n\nShimmy shimmy shimmy yay, shimmy yah\nBad girls gon' swalla-la-la\nBust down on my wrist in this bitch\nMy pinky-ring bigger than his\nMet her out in Beverly Hills, ay\nDolla got too many girls, ay\nMet her out in Beverly Hills\nAll she wear is red bottom heels\nWhen she back it up, put it on the Snap\nWhen she droppin' low, put it on the Gram\nDJ poppin', she gon' swallow that\nChampagne poppin', she gon' swallow that\n\nAll you girls in here, if you're feeling thirsty\nCome on take a sip 'cause you know what I'm servin', ooh\n\nShimmy shimmy yay, shimmy yay, shimmy ya (Drank)\nSwalla-la-la (Drank)\nSwalla-la-la (Swalla-la-la)\nSwalla-la-la\nShimmy shimmy yay, shimmy yay, shimmy ya(Drank)\nSwalla-la-la (Drank)\nSwalla-la-la (Swalla-la-la)\nSwalla-la-la\nFreaky, freaky gyal\nMy freaky, freaky gyal\n\nBad gyal no swalla nuttin,word to the Dalai Lama\nHe know I'm a fashion killa, word to John Galliano\nHe copping that Valentino, ain't no telling me \"no\"\nI'm that bitch, and he know, he know\nHow y'all wifing these thots? You don't get wins for that\nI'm having another good year, we don't get blimps for that\nPussy game still cold, we don't get minks for that\nWhen I'm poppin' them bananas, we don't link chimps for that\nI gave these bitches two years, now your time's up\nBless her heart, she throwing shots but every line sucks\nI'm in that cherry red foreign with the brown guts\nMy shit slappin' like dude did LeBron's nuts\n\nAll you girls in here, if you're feeling thirsty\nCome on take a sip 'cause you know what I'm servin'\n\nShimmy shimmy yay, shimmy yay, shimmy ya(My love) (Drank)\nSwalla-la-la (My love) (Drank)\nSwalla-la-la (Swalla-la-la)\nSwalla-la-la\nShimmy shimmy yay, shimmy yay, shimmy ya(Kyuh!) (Drank)\nSwalla-la-la (Drank)\nSwalla-la-la (Swalla-la-la)\nSwalla-la-la\n\nYoung Money\nSwalla-la-la\nJ.D\nFreaky, freaky gyal\nSwalla-la-la\nMy freaky, freaky gyal\nSwalla-la-la\nMy freaky, freaky gyal\nSwalla-la-la\nMy freaky, freaky gyal\nDerulo\n\nJason Derulo is a singer-songwriter renowned for his hit songs “Swalla,” “Wiggle,” \"Talk Dirty,\" “Whatcha Say,” “Trumpets,” and “Get Ugly.” He worked with artists like Nicki Minaj, Snoop Dogg, Adam Levine, and 2 Chainz — amassing billions of global streams and sealing his reputation as a global chart-topping star.\n\nThe official YouTube channel of Atlantic Records artist Jason Derulo. Subscribe for the latest music videos, performances, and more.\n\n#JasonDerulo #Swalla #ShimmyShimmyYay",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NGLxoKOvzu4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NGLxoKOvzu4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NGLxoKOvzu4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NGLxoKOvzu4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NGLxoKOvzu4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NGLxoKOvzu4"
+        },
+        "videoOwnerChannelTitle": "Jason Derulo",
+        "videoOwnerChannelId": "UCe3yZzUwpmy2eKKmF9svX0Q"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oYhmFu-MqeQMR_-3UKT3VttGkv4",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi4wRkVBNUY4OTkzN0JCNTA2",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Justin Bieber - Love Yourself (PURPOSE : The Movement)",
+        "description": "‘Purpose’ Available Everywhere Now!\niTunes: http://smarturl.it/PurposeDlx?IQid=VEVO1113\nStream & Add To Your Spotify Playlist: http://smarturl.it/sPurpose?IQid=VEVO1113\nGoogle Play: http://smarturl.it/gPurpose?IQid=VEVO1113\nAmazon: http://smarturl.it/aPurpose?IQid=VEVO1113\n \nFollow Justin:\nhttp://facebook.com/justinbieber\nhttp://twitter.com/justinbieber\nhttp://instagram.com/justinbieber\nhttp://shots.com/justinbieber \nhttp://fahlo.me/justinbieber\nAnd sign up to Justin’s newsletter: http://justinbiebermusic.com\nSnapchat: rickthesizzler\n\nPURPOSE : The Movement\n \nA Short Film\n \nCreated by Justin Bieber, Parris Goebel and Scott \"Scooter\" Braun\n \nDirector: Parris Goebel\nProduction Companies: SB Projects and Bieber Time Films\nExecutive Producers: Justin Bieber and Scott \"Scooter\" Braun\nProducers: Justin Bieber, Scott \"Scooter\" Braun, Parris Goebel, and Allison Kaye\nAssociate Producer: Cori Weber\nShoot Coordinator: Cyndi Dumo\nFilmed and Edited By: Jose Omar Hernandez\nColorist: Arianna Pane \nBig Thanks: Brett Goebel\nChoreographers: Keone and Mari Madrid\nDancers: Keone and Mari Madrid\nWritten By: Ed Sheeran, Benjamin Levin, and Justin Bieber\nPublished By: Ed Sheeran Limited / Sony/ATV Music Publishing (UK) Limited (PRS), Please Don't Forget To Pay Me Music / Administered by Universal Music Publishing (GRM), and Bieber Time Publishing / Universal Music (ASCAP)\nProduced By: Benny Blanco for Matza Ball Productions, Inc.\n\nhttp://vevo.ly/xa3x7W\n\n©: 2015 Def Jam Recordings, a division of UMG Recordings, Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oyEuk8j8imI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oyEuk8j8imI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oyEuk8j8imI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oyEuk8j8imI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oyEuk8j8imI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oyEuk8j8imI"
+        },
+        "videoOwnerChannelTitle": "JustinBieberVEVO",
+        "videoOwnerChannelId": "UCHkj014U2CQ2Nv0UZeYpE_A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8Kxfqzmtv2iXO4uZ21J2CC19kC8",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi5CNEFEOUNDRUMzMjVGMjc2",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\") (Official Video)",
+        "description": "Official Video for ”CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")\" by Justin Timberlake\nListen to Justin Timberlake: https://JustinTimberlake.lnk.to/listenYD\nWatch more videos by Justin Timberlake: https://JustinTimberlake.lnk.to/listenYD/youtube\n\nSubscribe to the official Justin Timberlake YouTube channel: https://JustinTimberlake.lnk.to/subscribeYD\n\nFollow Justin Timberlake\nFacebook: https://JustinTimberlake.lnk.to/followFI\nInstagram: https://JustinTimberlake.lnk.to/followII\nTwitter: https://JustinTimberlake.lnk.to/followTI\nWebsite: https://JustinTimberlake.lnk.to/followWI\nSpotify: https://JustinTimberlake.lnk.to/followSI\nYouTube: https://JustinTimberlake.lnk.to/subscribeYD\n\nAsk your voice device to play Justin Timberlake!\n\nLyrics:\nNothing I can see but you when you dance, dance, dance\nA feeling good, good, creeping up on you\nSo just dance, dance, dance, come on\nAll those things I shouldn't do\nBut you dance, dance, dance\nAnd ain't nobody leaving soon, so keep dancing\nI can't stop the feeling!\nSo just dance, dance, dance\nI can't stop the feeling!\nSo just dance, dance, dance\nCome on\n\n#JustinTimberlake #CANTSTOPTHEFEELING #OfficialVideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ru0K8uYEZWw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ru0K8uYEZWw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ru0K8uYEZWw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ru0K8uYEZWw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ru0K8uYEZWw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ru0K8uYEZWw"
+        },
+        "videoOwnerChannelTitle": "justintimberlakeVEVO",
+        "videoOwnerChannelId": "UCsXfDf1CDgU3SCt0gxJNXGg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "v-EWYUpxYjiYLgcle7TuXzdStDk",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi4zNDY1MzYwMjYwQUE2QTlD",
+      "snippet": {
+        "publishedAt": "2020-04-01T11:54:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Bruno Mars - 24K Magic (Official Music Video)",
+        "description": "The official music video for Bruno Mars' \"24K Magic\" from the album '24K Magic'. \n\n🔔 Subscribe for the latest official music videos, live performances, lyric videos, official audio, and more ➤ https://Atlantic.lnk.to/BMsubscribe\n\nWatch All Of Bruno Mars’ Official Music Videos ➤ https://bit.ly/2U7I3mi\n\nSee Bruno Mars on tour ➤ Visit http://brunomars.com/tour for dates and more info.\n\nGet Bruno Mars merchandise ➤ https://brunom.rs/brunomarsstore\n\nFollow Bruno Mars:\nhttp://www.brunomars.com\nhttp://www.instagram.com/brunomars\nhttp://www.twitter.com/brunomars\nhttp://www.facebook.com/brunomars\n\nThe official YouTube channel of Atlantic Records artist Bruno Mars. \n \n11x GRAMMY Award winner and 27x GRAMMY Award nominee Bruno Mars is a celebrated singer, songwriter, producer, and musician with iconic hits like \"The Lazy Song\", \"That's What I Like\", \"Just The Way You Are\", \"24K Magic\", \"Locked Out Of Heaven\", and \"When I Was Your Man\". His legendary body of work also includes blockbuster albums such as Doo-Wops & Hooligans, Unorthodox Jukebox, and 24K Magic, as well as era-defining collaborations like \"Uptown Funk\" with Mark Ronson, \"Finesse\" with Cardi B, and \"Nothin' On You\" with B.o.B. Forever classic, yet supremely innovative, Bruno continues to redefine music, style, and popular culture, pushing the boundaries of pop, R&B, funk, soul, hip-hop, and dance, and remains as influential as ever.\n\n#BrunoMars #24KMagic #AtlanticRecords #OfficialMusicVideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UqyT8IEBkvY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UqyT8IEBkvY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UqyT8IEBkvY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UqyT8IEBkvY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UqyT8IEBkvY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UqyT8IEBkvY"
+        },
+        "videoOwnerChannelTitle": "Bruno Mars",
+        "videoOwnerChannelId": "UCoUM-UJ7rirJYP8CQ0EIaHA"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TQnFj2yTezRVU6_6q5tbcnUL_XM",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi42NjBGMkRFNDcwMjM2NzYx",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Taylor Swift - Bad Blood ft. Kendrick Lamar",
+        "description": "►Exclusive Merch: https://store.taylorswift.com\n \n►Follow Taylor Swift Online\nInstagram: http://www.instagram.com/taylorswift\nFacebook: http://www.facebook.com/taylorswift\nTumblr: http://taylorswift.tumblr.com\nTwitter: http://www.twitter.com/taylorswift13\nWebsite: http://www.taylorswift.com\n \n►Follow Taylor Nation Online\nInstagram: http://www.instagram.com/taylornation\nTumblr: http://taylornation.tumblr.com\nTwitter: http://www.twitter.com/taylornation13",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QcIy9NiNbmo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QcIy9NiNbmo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QcIy9NiNbmo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QcIy9NiNbmo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QcIy9NiNbmo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QcIy9NiNbmo"
+        },
+        "videoOwnerChannelTitle": "TaylorSwiftVEVO",
+        "videoOwnerChannelId": "UCANLZYMidaCbLQFWXBC95Jg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VohiRYWhz6hwjgXmJEPuQUeW2g8",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi41OURENDc2NEM1MDI5Mjky",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Ellie Goulding - Burn (Official Video)",
+        "description": "Ellie Goulding - Burn (Official Video)\nListen to Ellie's new album 'Brightest Blue': http://elliegoulding.lnk.to/BrightestBlue\n\nFollow Ellie:\nTik Tok: https://EllieGoulding.lnk.to/TikTokID\nInstagram: https://instagram.com/elliegoulding\nFacebook: https://facebook.com/elliegoulding\nTwitter: https://twitter.com/elliegoulding\nWebsite: https://EllieGoulding.com\nSign Up: http://Ellie.lnk.to/signup\n\nLyrics\n\nWe, we don't have to worry 'bout nothing\n'Cause we got the fire\nAnd we're burning one hell of a something\nThey, they gonna see us from outer space\nOuter space, light it up\nLike we're the stars of the human race, human race\n\nWhen the lights turned down, they don't know what they heard\nStrike the match, play it loud, giving love to the world\nWe'll be raising our hands, shining up to the sky\n'Cause we got the fire, fire, fire\nYeah, we got the fire, fire, fire\nAnd we gonna let it burn, burn, burn, burn\nWe gonna let it burn, burn, burn, burn\nGonna let it burn, burn, burn, burn\nWe gonna let it burn, burn, burn, burn\n\nWe don't wanna leave\nNo, we just wanna be right now, right, ri-ri-right now\nAnd what we see, is everybody's on the floor\nActing crazy, getting loco 'til the light's out\nMusic's on, I'm waking up\nWe start the fire, and we burn it up\nAnd it's over now, we got the love\nThere's no sleeping now, no sleeping now, sleeping now\n\nWhen the lights turned down, they don't know what they heard\nStrike the match, play it loud, giving love to the world\nWe'll be raising our hands, shining up to the sky\n'Cause we got the fire, fire, fire\nYeah, we got the fire, fire, fire\nAnd we gonna let it burn, burn, burn, burn\nWe gonna let it burn, burn, burn, burn\nGonna let it burn, burn, burn, burn\nWe gonna let it burn, burn, burn, burn\n\nWhen the lights turned down, they don't know what they heard\nStrike the match, play it loud, giving love to the world\nWe gonna let it burn, burn, burn, burn, burn, burn (ooh)\nBurn, burn, burn, burn, burn, burn (ooh)\n\nWe can light it up, up, up\nSo they can't put it out, out, out\nWe can light it up, up, up\nSo they can't put it out, out, out\nWe can light it up, up, up\nSo they can't put it out, out, out\nWe can light it up, up, up\nSo they can't put it out, out, out\n\nWhen the lights turned down, they don't know what they heard\nStrike the match, play it loud, giving love to the world\nWe'll be raising our hands, shining up to the sky\n'Cause we got the fire, fire, fire\nYeah, we got the fire, fire, fire\nAnd we gonna let it burn, burn, burn, burn\nWe gonna let it burn, burn, burn, burn\nGonna let it burn, burn, burn, burn\nWe gonna let it burn, burn, burn, burn (let it burn)\n\nWhen the lights turned down, they don't know what they heard\nStrike the match, play it loud, giving love to the world\nWe'll be raising our hands, shining up to the sky (burn, burn, burn, burn, we gonna let it burn, burn, let it burn)\n'Cause we got the fire, fire, fire\nYeah, we got the fire, fire, fire\nAnd we're gonna let it burn\n\n#EllieGoulding",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CGyEd0aKWZE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CGyEd0aKWZE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CGyEd0aKWZE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CGyEd0aKWZE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CGyEd0aKWZE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CGyEd0aKWZE"
+        },
+        "videoOwnerChannelTitle": "EllieGouldingVEVO",
+        "videoOwnerChannelId": "UCvu362oukLMN1miydXcLxGg"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7aqT7rfR_aVqYaV0PZm7kAB__UU",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi4xMTE0RDU2NTlEMTkxNzZB",
+      "snippet": {
+        "publishedAt": "2020-04-01T11:54:30Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Shawn Mendes - Stitches (Official Music Video)",
+        "description": "New album WONDER available now\nListen here: https://wonder.lnk.to/OutNow\n\nFollow Shawn Mendes\nInstagram | https://www.instagram.com/shawnmendes/\nTwitter | https://twitter.com/ShawnMendes\nFacebook | https://www.facebook.com/ShawnMendesOfficial\nSnap | https://www.snapchat.com/add/shawnmendes1\nTikTok | https://www.tiktok.com/@shawnmendes\nWebsite | http://www.shawnmendesofficial.com/\n\nSubscribe to YouTube\nhttps://ShawnMendes.lnk.to/Subscribe-OnYouTube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VbfpW0pbvaU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VbfpW0pbvaU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VbfpW0pbvaU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VbfpW0pbvaU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VbfpW0pbvaU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VbfpW0pbvaU"
+        },
+        "videoOwnerChannelTitle": "ShawnMendesVEVO",
+        "videoOwnerChannelId": "UC4-TgOSMJHn-LtY4zCzbQhw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KNIRSyoSu5ppuiUDOIpnGHI98kU",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-03-05T10:38:28Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "Carly Rae Jepsen - Call Me Maybe",
+        "description": "Get E•MO•TION on iTunes now: http://smarturl.it/E-MO-TION\n\nSign up for Carly Rae Jepsen news here: http://smarturl.it/CRJ.News\n\nMusic video by Carly Rae Jepsen performing Call Me Maybe. (C) 2011 604 Records Inc.\n#VEVOCertified on June 8, 2012. http://www.youtube.com/vevocertified",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fWNaR-rxAic/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fWNaR-rxAic/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fWNaR-rxAic/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fWNaR-rxAic/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fWNaR-rxAic/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fWNaR-rxAic"
+        },
+        "videoOwnerChannelTitle": "CarlyRaeJepsenVEVO",
+        "videoOwnerChannelId": "UCtKuVNj4wVrZvTfxPxAUHcQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1sUIOqBD7_uNaDSAmA14VREY2tE",
+      "id": "UExHQnVLZm5FclpsQjNBVGhBRUt6OF8za2JZVG9jZ2ZiQi5EQkEyODM0NTk2MUFEQkYz",
+      "snippet": {
+        "publishedAt": "2020-04-01T11:54:35Z",
+        "channelId": "UCwtKO1Vwz-7g0nBxBQcU4bg",
+        "title": "P!nk - Just Give Me A Reason ft. Nate Ruess",
+        "description": "P!nk's official music video for 'Just Give Me A Reason' ft. Nate Ruess. Click to listen to P!nk on Spotify: http://smarturl.it/PSpot?IQid=PJGMR\n\nAs featured on The Truth About Love. Click to buy the track or album via iTunes: http://smarturl.it/PTALiTunes?IQid=PJGMR\nGoogle Play: http://smarturl.it/PJGMRPlay?IQid=PJGMR\nAmazon: http://smarturl.it/PTALAm?IQid=PJGMR\n\nMore from P!nk\nJust Give Me A Reason: https://youtu.be/OpQFFLBMEPI\nSo What: https://youtu.be/FJfFZqTlWrQ\nRaise Your Glass: https://youtu.be/XjVNlG5cZyQ\n\nFollow P!nk\nWebsite: http://www.pinkspage.com\nFacebook: https://www.facebook.com/pink\nTwitter: https://twitter.com/Pink\n\nSubscribe to P!nk on YouTube: http://smarturl.it/PSub?IQid=PJGMR\n\nMore great Ultimate Hits of the Noughties videos here: http://smarturl.it/UNPlaylist?IQid=PJGMR\n\n---------\n\nLyrics:\n\nRight from the start\nYou were a thief\nYou stole my heart\nAnd I your willing victim\nI let you see the parts of me\nThat weren't all that pretty\nAnd with every touch youfixed them\n\nNow you've been talking in your sleep, oh, oh\nThings you never say to me, oh, oh\nTell me that you've had enough\nOf our love, our love\n\nJust give me a reason\nJust a little bit's enough\nJust a second we're not broken just bent\nAnd we can learn to love again\nIt's in the stars\nIt's been written in the scars on our hearts\nWe're not broken just bent\nAnd we can learn to love again\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OpQFFLBMEPI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OpQFFLBMEPI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OpQFFLBMEPI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OpQFFLBMEPI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OpQFFLBMEPI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Redlist Decades",
+        "playlistId": "PLGBuKfnErZlB3AThAEKz8_3kbYTocgfbB",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OpQFFLBMEPI"
+        },
+        "videoOwnerChannelTitle": "PinkVEVO",
+        "videoOwnerChannelId": "UCXJDX1KK6t121Z9FLhu5o2A"
+      }
     }
   ],
   "pageInfo": {
     "totalResults": 200,
-    "resultsPerPage": 5
+    "resultsPerPage": 50
   }
 }
